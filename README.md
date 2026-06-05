@@ -58,9 +58,9 @@ A cross platform multiplayer uno game made with Godot that can support at most 1
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farukShihab\&show_icons=true)
+![GitHub followers](https://img.shields.io/github/followers/farukShihab?style=for-the-badge)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farukShihab\&layout=compact)
+![GitHub stars](https://img.shields.io/github/stars/farukShihab?style=for-the-badge)
 
 ## 📫 Contact
 

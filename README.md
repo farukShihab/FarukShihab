@@ -65,7 +65,7 @@ A cross platform multiplayer uno game made with Godot that can support at most 1
 ## 📫 Contact
 
 * Email: [faruk.aka.shihab@gmail.com](mailto:faruk.aka.shihab@gmail.com)
-* LinkedIn: [www.linkedin.com/in/faruk-shihab-608793343]
+* LinkedIn: [https://www.linkedin.com/in/ali-shihab-608793343/]
 
 ---
 
